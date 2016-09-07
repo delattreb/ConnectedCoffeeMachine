@@ -120,6 +120,7 @@ class GPIO:
     def remove_callBack(self, IO_number):
         GPIOlib.remove_event_detect(IO_number)
 
+    # TODO a supprimer
     """
     setmodeBOARD()
     print("GPIOlib MODE: " + str(getmode()))

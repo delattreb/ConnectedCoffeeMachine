@@ -6,6 +6,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="WebScraper PodCast" />
+    <orderEntry type="module" module-name="WebScraper PodCast" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="" />

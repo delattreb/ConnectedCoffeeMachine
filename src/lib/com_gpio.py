@@ -6,26 +6,6 @@ Date : 07/08/2016
 
 # TODO ATTENTION : l'import de la lib GPIO et l'exploitation doivent se faire en mode ROOT (sudo du script)
 
-# TODO A faire avec le Raspberry
-"""
-sudo raspi-config Activer:I2C
-sudo reboot
-lsmod | grep i2c_ : Vérifier l'installation
-sudo raspi-config
-Activer le spi
-sudo reboot
-lsmod | grep spi_ : Vérifier l'installation
-sudo raspi-config
-activer serial
-sudo reboot
-
-Sur le raspberry
-python get-pip.py
-
-sudo apt-get install python-rpi.gpio python3-rpi.gpio
-pip install RPi.GPIOlib
-"""
-
 import RPi.GPIO as GPIOlib
 
 from lib import com_logger

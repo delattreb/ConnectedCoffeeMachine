@@ -8,6 +8,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="WebScraper PodCast" />
     <orderEntry type="module" module-name="WebScraper PodCast" />
+    <orderEntry type="module" module-name="StratoBalloon" />
+    <orderEntry type="module" module-name="StratoBalloon" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="" />

@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ConnectedCoffeeMachine.iml" filepath="$PROJECT_DIR$/.idea/ConnectedCoffeeMachine.iml" />
-      <module fileurl="file://D:/Dev/WebScraper Podcast/.idea/WebScraper PodCast.iml" filepath="D:/Dev/WebScraper Podcast/.idea/WebScraper PodCast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../StratoBalloon/.idea/StratoBalloon.iml" filepath="$PROJECT_DIR$/../StratoBalloon/.idea/StratoBalloon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WebScraper Podcast/.idea/WebScraper PodCast.iml" filepath="$PROJECT_DIR$/../WebScraper Podcast/.idea/WebScraper PodCast.iml" />
     </modules>
   </component>
 </project>
